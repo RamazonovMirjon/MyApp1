@@ -3,5 +3,5 @@ class FontConst {
   static double kSmallFont = 12.0;
   static double kMediumFont = 16.0;
   static double kLargeFont = 20.0;
-  static double kExtraLargeFont = 24.0;
+  static double kExtraLargeFont = 46.0;
 }
